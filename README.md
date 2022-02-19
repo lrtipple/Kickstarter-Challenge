@@ -16,10 +16,17 @@ The lower the monetary goal for plays, the higher the success rate. Plays with a
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-Out of 1,369 theater campaigns, 839 were successful and 493 failed. The most sucessful month to launch a kickstart campaign for theater catergories is in May.
+---
+Out of 1,369 theater campaigns, 839 were successful and 493 failed. 
+---
+The most sucessful month to launch a kickstart campaign for theater catergories is in May.
 - What can you conclude about the Outcomes based on Goals?
+---
 Out of 1,047 play campaigns, 694 were successgul. 529 of the successful campaigns had a monetary goal under $5,000.
+
 - What are some limitations of this dataset?
+---
 Some limitations of this dataset are most individual countries have a very low number of campaigns, so it would be better to target a specific country when performing analyses. Also, most of the campagins collected in the dataset are from 2014-2016, making the data 6 years old. The data also lacks information regarding the interest type of sub-category; i.e. comedy, tragedy, historical, which could also impact the outcome of the campaigns.  
 - What are some other possible tables and/or graphs that we could create?
+---
 We could create graphs that target on the name and blurb for the most successful campaigns so Louise could get an idea of interest types by success.
